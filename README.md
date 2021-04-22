@@ -21,11 +21,11 @@
 
 <h4>Screenshots</h4>
 <p align="center">
-<img src="https://raw.githubusercontent.com/sunilvijayan7/envy.github.io/main/screenshots/home.JPG" width="300" height="100"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/envy.github.io/main/screenshots/services.JPG" width="300" height="100"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/envy.github.io/main/screenshots/choose.JPG" width="300" height="100"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/envy.github.io/main/screenshots/testimonials.JPG" width="300" height="100"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/envy.github.io/main/screenshots/about.JPG" width="300" height="100"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/envy.github.io/main/screenshots/home.JPG" width="450" height="250"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/envy.github.io/main/screenshots/services.JPG" width="450" height="250"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/envy.github.io/main/screenshots/choose.JPG" width="450" height="250"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/envy.github.io/main/screenshots/testimonials.JPG" width="450" height="250"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/envy.github.io/main/screenshots/about.JPG" width="450" height="250"/>
 </p>
 
 <p>
