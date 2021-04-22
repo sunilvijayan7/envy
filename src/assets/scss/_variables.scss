@@ -1,0 +1,58 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Rubik:400,500,700&display=swap');
+
+$primary:   #2f55d4;
+$success:   #34D1BF;
+$info:      #57B8FF;
+$warning:   #FBB13C;
+$danger:    #FE6847;
+$purple:    #9261c6;
+$pink:      #ff7aa3;
+$white:     #ffffff;
+$dark:      #343a40;
+$light:     #f8fafe;
+$muted:     #a0a9b1;
+
+// stylelint-disable
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #efefef;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #6c757d;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+
+$colors: (
+    "primary": $primary,
+    "success": $success,
+    "info": $info,
+    "warning": $warning,
+    "danger": $danger,
+    "dark": $dark,
+    "muted": $muted,
+    "purple": $purple,
+    "pink": $pink,
+    "white": $white,
+    "light": $light
+);
+
+$body-color:  #a0a9b1;
+
+$footer-bg:   #0f1b42;
+
+$font-size-base : .9rem;
+
+$box-shadow:   0px 8px 35px 0px  rgba($gray-700, .05);
+
+
+$font-family-primary: 'Rubik', sans-serif;
+
+// Secondary font
+$font-family-secondary: 'Rubik', sans-serif;
+
+$font-weight-medium: 500;
+$font-weight-semibold: 600;
+$font-weight-bold: 700;

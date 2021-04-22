@@ -1,0 +1,51 @@
+{
+  "name": "envy",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "availity-reactstrap-validation": "^2.6.1",
+    "bootstrap": "^4.5.0",
+    "feather-icons-react": "^0.4.1",
+    "node-sass": "^4.13.1",
+    "react": "^16.13.1",
+    "react-countup": "^4.3.3",
+    "react-dom": "^16.13.1",
+    "react-fade-in": "^1.0.0",
+    "react-image-lightbox": "^5.1.1",
+    "react-modal-video": "^1.2.3",
+    "react-owl-carousel": "^2.3.3",
+    "react-parallax": "^3.0.3",
+    "react-particles-js": "^3.2.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.1",
+    "react-slick": "^0.26.1",
+    "react-sticky-header": "^0.2.0",
+    "react-text-rotator": "^0.1.1",
+    "react-youtube": "^7.11.2",
+    "reactstrap": "^8.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
