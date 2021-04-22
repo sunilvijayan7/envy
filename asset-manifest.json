@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/envy.github.io/static/css/main.37773f12.chunk.css",
-    "main.js": "/envy.github.io/static/js/main.fe1271f3.chunk.js",
-    "main.js.map": "/envy.github.io/static/js/main.fe1271f3.chunk.js.map",
-    "runtime-main.js": "/envy.github.io/static/js/runtime-main.71118dd0.js",
-    "runtime-main.js.map": "/envy.github.io/static/js/runtime-main.71118dd0.js.map",
-    "static/css/2.6cfccccb.chunk.css": "/envy.github.io/static/css/2.6cfccccb.chunk.css",
-    "static/js/2.f6069e52.chunk.js": "/envy.github.io/static/js/2.f6069e52.chunk.js",
-    "static/js/2.f6069e52.chunk.js.map": "/envy.github.io/static/js/2.f6069e52.chunk.js.map",
-    "index.html": "/envy.github.io/index.html",
-    "precache-manifest.e8b558575c8df3ebfc98c77f8d949400.js": "/envy.github.io/precache-manifest.e8b558575c8df3ebfc98c77f8d949400.js",
-    "service-worker.js": "/envy.github.io/service-worker.js",
-    "static/css/2.6cfccccb.chunk.css.map": "/envy.github.io/static/css/2.6cfccccb.chunk.css.map",
-    "static/css/main.37773f12.chunk.css.map": "/envy.github.io/static/css/main.37773f12.chunk.css.map",
-    "static/js/2.f6069e52.chunk.js.LICENSE.txt": "/envy.github.io/static/js/2.f6069e52.chunk.js.LICENSE.txt",
-    "static/media/hero-bg-shape-1.svg": "/envy.github.io/static/media/hero-bg-shape-1.d71a7440.svg",
-    "static/media/home-img.png": "/envy.github.io/static/media/home-img.0450221f.png",
-    "static/media/img-2.png": "/envy.github.io/static/media/img-2.4570c307.png",
-    "static/media/logo-dark.png": "/envy.github.io/static/media/logo-dark.1697e46e.png",
-    "static/media/materialdesignicons.min.css": "/envy.github.io/static/media/materialdesignicons-webfont.a32fa1f2.eot"
+    "main.css": "/envy/static/css/main.0462d8ee.chunk.css",
+    "main.js": "/envy/static/js/main.2db61a82.chunk.js",
+    "main.js.map": "/envy/static/js/main.2db61a82.chunk.js.map",
+    "runtime-main.js": "/envy/static/js/runtime-main.f887d590.js",
+    "runtime-main.js.map": "/envy/static/js/runtime-main.f887d590.js.map",
+    "static/css/2.6cfccccb.chunk.css": "/envy/static/css/2.6cfccccb.chunk.css",
+    "static/js/2.f6069e52.chunk.js": "/envy/static/js/2.f6069e52.chunk.js",
+    "static/js/2.f6069e52.chunk.js.map": "/envy/static/js/2.f6069e52.chunk.js.map",
+    "index.html": "/envy/index.html",
+    "precache-manifest.27f3c381625d14e36092c6b9e1a06118.js": "/envy/precache-manifest.27f3c381625d14e36092c6b9e1a06118.js",
+    "service-worker.js": "/envy/service-worker.js",
+    "static/css/2.6cfccccb.chunk.css.map": "/envy/static/css/2.6cfccccb.chunk.css.map",
+    "static/css/main.0462d8ee.chunk.css.map": "/envy/static/css/main.0462d8ee.chunk.css.map",
+    "static/js/2.f6069e52.chunk.js.LICENSE.txt": "/envy/static/js/2.f6069e52.chunk.js.LICENSE.txt",
+    "static/media/hero-bg-shape-1.svg": "/envy/static/media/hero-bg-shape-1.d71a7440.svg",
+    "static/media/home-img.png": "/envy/static/media/home-img.0450221f.png",
+    "static/media/img-2.png": "/envy/static/media/img-2.4570c307.png",
+    "static/media/logo-dark.png": "/envy/static/media/logo-dark.1697e46e.png",
+    "static/media/materialdesignicons.min.css": "/envy/static/media/materialdesignicons-webfont.a32fa1f2.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.71118dd0.js",
+    "static/js/runtime-main.f887d590.js",
     "static/css/2.6cfccccb.chunk.css",
     "static/js/2.f6069e52.chunk.js",
-    "static/css/main.37773f12.chunk.css",
-    "static/js/main.fe1271f3.chunk.js"
+    "static/css/main.0462d8ee.chunk.css",
+    "static/js/main.2db61a82.chunk.js"
   ]
 }
